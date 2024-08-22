@@ -19,7 +19,8 @@ body {
 	flex-direction: column;
 	min-height: 100vh;
 	color: #FFF;
-	background-color: lightcoral;
+	background-image: url(https://images.unsplash.com/photo-1682687220199-d0124f48f95b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+	background-size: cover;
 }
 
 header {
@@ -32,7 +33,7 @@ header {
 header h1{ 
 	font-size: 2.5rem;
 	font-weight: 300;
-	color: var(--grey);
+	color: var(--purple);
 	margin-bottom: 1rem;
 }
 
@@ -66,8 +67,8 @@ input, button {
 	font-size: 1.25rem;
 	font-weight: 700;
 	background-image: linear-gradient(to right, var(--pink), var(--purple));
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	 -webkit-background-clip: text;
+	 -webkit-text-fill-color: transparent;
 	cursor: pointer;
 	transition: 0.4s;
 }
@@ -94,7 +95,7 @@ main {
 .task-list h2 {
 	font-size: 1.5rem;
 	font-weight: 300;
-	color: var(--grey);
+	color: var(--purple);
 	margin-bottom: 1rem;
 }
 
