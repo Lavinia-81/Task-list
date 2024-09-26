@@ -1,7 +1,7 @@
-# Task List for This Month
+# Task List
 https://lavinia-81.github.io/Task-list/
 
-Welcome to the **Task List for This Month** repository! This project allows users to manage their tasks for the month, providing a simple and intuitive interface to add, view, and manage tasks.
+Welcome to the **Task List** repository! This project allows users to manage their tasks for the month, providing a simple and intuitive interface to add, view, and manage tasks.
 
 ## Features
 
